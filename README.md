@@ -16,6 +16,8 @@
 
 "This line is the second added for the purpose of testing Merging & Pull Requests."
 
+"This line is set to test merge/rebase commands with conflict"
+
 ##Fourth Edition:
 
 "This line is the third added for the purpose of testing Merging & Pull Requests."
