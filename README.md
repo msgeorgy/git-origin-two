@@ -22,22 +22,3 @@
 
 "This line is the third added for the purpose of testing Merging & Pull Requests."
 
-"New Line"
-
-"2nd New Line"
-
-"3rd New Line"
-
-"4th New Line"
-
-"5th New Line"
-
-"6th New Line"
-
-"7th New Line"
-
-"8th New Line"
-
-"9th New Line"
-
-"10th New Line"
