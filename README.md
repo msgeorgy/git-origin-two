@@ -22,3 +22,4 @@
 
 "This line is the third added for the purpose of testing Merging & Pull Requests."
 
+"New Line"
