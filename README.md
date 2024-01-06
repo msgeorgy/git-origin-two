@@ -11,3 +11,7 @@
 ##Second Edition:
 
 "This line is added for the purpose of testing Merging & Pull Requests."
+
+##Third Edition:
+
+"This line is the second added for the purpose of testing Merging & Pull Requests."
